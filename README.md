@@ -174,18 +174,6 @@ Este projeto foi desenvolvido como parte de um trabalho de extensão universitá
 
 Este projeto é parte de um trabalho acadêmico de extensão universitária e está disponível para fins educacionais e de pesquisa.
 
-## 📞 Contato
-
-Para mais informações sobre o projeto ou dúvidas sobre cybersegurança:
-
-- **Projeto**: CyberEdu - Educação e Defesa Digital
-- **Instituição**: [Nome da Universidade]
-- **Ano**: 2025.02
-
----
-
-<div align="center">
-  <p>Desenvolvido com ❤️ para promover uma cultura digital mais segura</p>
-  <p>🛡️ <strong>CyberEdu</strong> - Educando para proteger</p>
+- Educando para proteger</p>
 </div>
 # projeto-extens-o-unicv
